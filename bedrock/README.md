@@ -1,4 +1,4 @@
-##Advanced: Installing addons onto an already existing world:
+## Advanced: Installing addons onto an already existing world:
 NOTE: We highly recommend giving the above sections a try first. The two methods above will work regardless of what format your addons are in, as long as you're able to import them into your Minecraft client.
 
 Before getting started: if your addons are in .mcpack or .mcaddon format, before you'll be able to follow these steps, you'll need to extract the folders from inside these files. To do this, follow these steps:
