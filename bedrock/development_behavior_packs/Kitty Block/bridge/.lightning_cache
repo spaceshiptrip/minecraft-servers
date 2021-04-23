@@ -1,0 +1,15 @@
+{
+	"block": {
+		"BP/blocks/kitty.json": {
+			"identifiers": [
+				"spa:kittyfaceblock"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": [
+				"bridge:rotate_y_on_place"
+			]
+		}
+	}
+}

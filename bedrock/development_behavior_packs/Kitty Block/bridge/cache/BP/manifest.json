@@ -1,0 +1,78 @@
+{
+	"file_path": "C:\\Users\\rjayt\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Kitty Block\\manifest.json",
+	"file_type": "manifest_bp",
+	"format_version": 1,
+	"file_uuid": "de83002a_d245_4542_9919_2a389895baf9",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "2",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "Hello Kitty Face Block",
+						"description": "Single Face of HK",
+						"uuid": "5d069445-ccf5-4542-a009-60e6ebc51895",
+						"version": [
+							1,
+							0,
+							0
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "data",
+							"uuid": "9e8ebf19-cb67-41e2-8c31-70c5363790c7",
+							"version": [
+								1,
+								0,
+								0
+							]
+						}
+					]
+				},
+				"key": "header",
+				"is_minified": true,
+				"children": {
+					"name": "Hello Kitty Face Block",
+					"description": "Single Face of HK",
+					"uuid": "5d069445-ccf5-4542-a009-60e6ebc51895",
+					"version": [
+						1,
+						0,
+						0
+					],
+					"min_engine_version": [
+						1,
+						13,
+						0
+					]
+				}
+			},
+			{
+				"key": "modules",
+				"is_minified": true,
+				"children": [
+					{
+						"type": "data",
+						"uuid": "9e8ebf19-cb67-41e2-8c31-70c5363790c7",
+						"version": [
+							1,
+							0,
+							0
+						]
+					}
+				]
+			}
+		]
+	}
+}

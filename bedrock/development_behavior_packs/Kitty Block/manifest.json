@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Hello Kitty Face Block",
+		"description": "Single Face of HK",
+		"uuid": "5d069445-ccf5-4542-a009-60e6ebc51895",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "9e8ebf19-cb67-41e2-8c31-70c5363790c7",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "3069ea9d-c4e6-46d9-9cd9-95a241760903"
+		}
+	]
+}

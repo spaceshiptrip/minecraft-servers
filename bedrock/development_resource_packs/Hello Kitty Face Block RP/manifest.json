@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": 2,
+	"header": {
+		"name": "Hello Kitty Face RP",
+		"description": "Glowing block HK Face",
+		"uuid": "3069ea9d-c4e6-46d9-9cd9-95a241760903",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "329cbf7d-ca39-4b84-8efd-29761f381543",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
