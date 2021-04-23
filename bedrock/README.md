@@ -105,3 +105,16 @@ NOTE: If your version section takes up multiple lines, you can consolidate it by
 
 ## Running into problems with the addons loading?
 Try copying the .json file that was edited and paste it into a .json parser like this one. If there are any json formatting issues, it'll tell you where the problem is so that it can be fixed. You can also reach out to us at any time with the blue button in the bottom right corner of the page and we'll be happy to help!
+
+
+---
+
+# Creating custom blocks
+1. Download: https://blockbench.net/downloads/
+1. Download: 
+   * https://github.com/bridge-core/bridge.
+   * https://bridge-core.github.io/
+1. Follow the tutorials:
+   * https://youtu.be/494U6pSvbOg
+   * https://youtu.be/MTkULBJJVwQ
+
