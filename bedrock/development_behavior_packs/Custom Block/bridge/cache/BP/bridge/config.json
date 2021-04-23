@@ -1,0 +1,14 @@
+{
+	"file_path": "C:\\Users\\rjayt\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Block\\bridge\\config.json",
+	"file_type": "unknown",
+	"format_version": 1,
+	"file_uuid": "3b257543_18de_459f_8f79_c309a019e265",
+	"file_version": 1,
+	"cache_content": {
+		"is_minified": true,
+		"children": {
+			"prefix": "customblock.boof",
+			"formatVersion": "1.16.220"
+		}
+	}
+}

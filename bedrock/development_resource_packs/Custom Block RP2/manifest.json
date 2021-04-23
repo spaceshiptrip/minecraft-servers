@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": 2,
+	"header": {
+		"name": "Custom Block RP",
+		"description": "antoher attempt",
+		"uuid": "1f6eb398-b676-465f-9a98-b0b106063c50",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "b4f7d4ae-f807-458d-8fb1-8e2336d28024",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

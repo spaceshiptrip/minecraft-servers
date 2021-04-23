@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": 2,
+	"header": {
+		"name": "customblock.boof.rp",
+		"description": "pack.description",
+		"uuid": "f3e1e7f7-43b0-409d-9c78-e5c85c95dd1c",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "9a1034df-98d7-4881-85f8-3da825308d0f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

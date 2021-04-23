@@ -1,0 +1,8 @@
+{
+	"file_path": "C:\\Users\\rjayt\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\customblock.boof.rp\\texts\\en_US.lang",
+	"file_type": "client_lang",
+	"format_version": 0,
+	"file_uuid": "e42bc356_99ea_4bff_843e_238284795cdb",
+	"file_version": 0,
+	"cache_content": "pack.name=customblock.boof.rp\r\npack.description=Resource Pack for the boof custom block\r\ntile.spa_boof.name=boof special block"
+}

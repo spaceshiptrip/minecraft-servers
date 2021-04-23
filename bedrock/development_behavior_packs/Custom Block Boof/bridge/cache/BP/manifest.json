@@ -1,0 +1,78 @@
+{
+	"file_path": "C:\\Users\\rjayt\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Block Boof\\manifest.json",
+	"file_type": "manifest_bp",
+	"format_version": 1,
+	"file_uuid": "4865f9db_e6a9_4899_a1ab_9e116a2a6f34",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "2",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "Custom Block BP",
+						"description": "New attempt at custom block",
+						"uuid": "5047d3a9-a9a5-4edd-a2e9-4f2aabcc0f0b",
+						"version": [
+							1,
+							0,
+							0
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "data",
+							"uuid": "559f9087-1074-4077-80da-2a0e9e80d5d7",
+							"version": [
+								1,
+								0,
+								0
+							]
+						}
+					]
+				},
+				"key": "header",
+				"is_minified": true,
+				"children": {
+					"name": "Custom Block BP",
+					"description": "New attempt at custom block",
+					"uuid": "5047d3a9-a9a5-4edd-a2e9-4f2aabcc0f0b",
+					"version": [
+						1,
+						0,
+						0
+					],
+					"min_engine_version": [
+						1,
+						13,
+						0
+					]
+				}
+			},
+			{
+				"key": "modules",
+				"is_minified": true,
+				"children": [
+					{
+						"type": "data",
+						"uuid": "559f9087-1074-4077-80da-2a0e9e80d5d7",
+						"version": [
+							1,
+							0,
+							0
+						]
+					}
+				]
+			}
+		]
+	}
+}

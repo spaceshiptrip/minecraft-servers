@@ -1,0 +1,4 @@
+##bridge-file-version: #0
+pack.name=customblock.boof.rp
+pack.description=Resource Pack for the boof custom block
+tile.spa_boof.name=boof special block

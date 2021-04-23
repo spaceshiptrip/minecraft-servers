@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": 2,
+	"header": {
+		"name": "boof.customblock",
+		"description": "block by spaceshiptrp",
+		"uuid": "a0463305-f0dc-4bba-a8d4-60098d340017",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "e4d8fb24-aaf9-4745-959b-31469ec569ae",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
