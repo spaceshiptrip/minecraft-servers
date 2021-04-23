@@ -236,3 +236,10 @@ that detaches any running screens and reataches to `minecraft`
 [08:41:16] [Server thread/INFO]: Gave 6 [Golden Boots] to spaceshiptrip
 >give spaceshiptrip minecraft:netherite_boots{Unbreakable:1b,Enchantments:[{id:"minecraft:protection",lvl:40s},{id:"minecraft:mending",lvl:40s},{id:"minecraft:fire_protection",lvl:40s},{id:"minecraft:blast_protection",lvl:40s},{id:"minecraft:projectile_protection",lvl:40s},{id:"minecraft:respiration",lvl:40s},{id:"minecraft:aqua_affinity",lvl:40s}]} 6
 ```
+
+
+
+---
+
+# Model creation
+Tutorial: https://youtu.be/CohAMvv3Ows
