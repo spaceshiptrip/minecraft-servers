@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": 2,
+	"header": {
+		"name": "spaceshiptrip.keroppi.block.rp",
+		"description": "Keroppi block my SpaceshipTrip",
+		"uuid": "7229b248-288b-41e0-a0a1-6d814c83066c",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "fc9fed8f-3cf8-4174-a65d-7e3d7f1fd198",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

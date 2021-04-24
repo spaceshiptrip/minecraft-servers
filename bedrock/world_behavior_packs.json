@@ -6,5 +6,9 @@
 	 {
 		 "pack_id" : "5d069445-ccf5-4542-a009-60e6ebc51895",
 		 "version" : [ 1, 0, 0 ]
+	 },
+	 {
+		 "pack_id" :  "76aeb422-9053-4af8-9ed3-7e62cfccfebd",
+		 "version" : [ 1, 0, 0 ]
 	 }
  ]

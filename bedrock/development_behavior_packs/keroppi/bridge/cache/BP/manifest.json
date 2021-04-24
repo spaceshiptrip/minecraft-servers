@@ -1,0 +1,78 @@
+{
+	"file_path": "C:\\Users\\rjayt\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\keroppi\\manifest.json",
+	"file_type": "manifest_bp",
+	"format_version": 1,
+	"file_uuid": "c6e81099_c74c_4d3a_afb0_ab06e6f1cb76",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "2",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "spaceshiptrip.keroppi",
+						"description": "Keroppi Block by SpaceshipTrip",
+						"uuid": "76aeb422-9053-4af8-9ed3-7e62cfccfebd",
+						"version": [
+							1,
+							0,
+							0
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "data",
+							"uuid": "2b3f1aac-2635-4953-92ad-6c761447696d",
+							"version": [
+								1,
+								0,
+								0
+							]
+						}
+					]
+				},
+				"key": "header",
+				"is_minified": true,
+				"children": {
+					"name": "spaceshiptrip.keroppi",
+					"description": "Keroppi Block by SpaceshipTrip",
+					"uuid": "76aeb422-9053-4af8-9ed3-7e62cfccfebd",
+					"version": [
+						1,
+						0,
+						0
+					],
+					"min_engine_version": [
+						1,
+						13,
+						0
+					]
+				}
+			},
+			{
+				"key": "modules",
+				"is_minified": true,
+				"children": [
+					{
+						"type": "data",
+						"uuid": "2b3f1aac-2635-4953-92ad-6c761447696d",
+						"version": [
+							1,
+							0,
+							0
+						]
+					}
+				]
+			}
+		]
+	}
+}

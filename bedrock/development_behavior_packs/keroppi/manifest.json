@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "spaceshiptrip.keroppi",
+		"description": "Keroppi Block by SpaceshipTrip",
+		"uuid": "76aeb422-9053-4af8-9ed3-7e62cfccfebd",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "2b3f1aac-2635-4953-92ad-6c761447696d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "7229b248-288b-41e0-a0a1-6d814c83066c"
+		}
+	]
+}

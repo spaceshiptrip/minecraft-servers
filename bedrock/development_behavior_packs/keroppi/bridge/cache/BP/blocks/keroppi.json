@@ -1,0 +1,550 @@
+{
+	"file_path": "C:\\Users\\rjayt\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\keroppi\\blocks\\keroppi.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "56d1b522_9545_4680_8408_6172ac7669d0",
+	"file_version": 7,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.220",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.220",
+					"minecraft:block": {
+						"description": {
+							"identifier": "spa:keroppi_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 2,
+							"minecraft:explosion_resistance": 0.9,
+							"minecraft:block_light_emission": 0.9,
+							"minecraft:map_color": "#28D217",
+							"minecraft:entity_collision": {
+								"origin": [
+									-8,
+									0,
+									-8
+								],
+								"size": [
+									16,
+									16,
+									16
+								]
+							},
+							"minecraft:pick_collision": {
+								"origin": [
+									-8,
+									0,
+									-8
+								],
+								"size": [
+									16,
+									16,
+									16
+								]
+							},
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "keroppi",
+									"render_method": "opaque"
+								}
+							},
+							"minecraft:geometry": "geometry.keroppi",
+							"bridge:rotate_y_on_place": {
+								"flip": true
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "spa:keroppi_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 2,
+								"minecraft:explosion_resistance": 0.9,
+								"minecraft:block_light_emission": 0.9,
+								"minecraft:map_color": "#28D217",
+								"minecraft:entity_collision": {
+									"origin": [
+										-8,
+										0,
+										-8
+									],
+									"size": [
+										16,
+										16,
+										16
+									]
+								},
+								"minecraft:pick_collision": {
+									"origin": [
+										-8,
+										0,
+										-8
+									],
+									"size": [
+										16,
+										16,
+										16
+									]
+								},
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "keroppi",
+										"render_method": "opaque"
+									}
+								},
+								"minecraft:geometry": "geometry.keroppi",
+								"bridge:rotate_y_on_place": {
+									"flip": true
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "spa:keroppi_block"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "spa:keroppi_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 2,
+								"minecraft:explosion_resistance": 0.9,
+								"minecraft:block_light_emission": 0.9,
+								"minecraft:map_color": "#28D217",
+								"minecraft:entity_collision": {
+									"origin": [
+										-8,
+										0,
+										-8
+									],
+									"size": [
+										16,
+										16,
+										16
+									]
+								},
+								"minecraft:pick_collision": {
+									"origin": [
+										-8,
+										0,
+										-8
+									],
+									"size": [
+										16,
+										16,
+										16
+									]
+								},
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "keroppi",
+										"render_method": "opaque"
+									}
+								},
+								"minecraft:geometry": "geometry.keroppi",
+								"bridge:rotate_y_on_place": {
+									"flip": true
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:explosion_resistance": 0.9,
+									"minecraft:block_light_emission": 0.9,
+									"minecraft:map_color": "#28D217",
+									"minecraft:entity_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "keroppi",
+											"render_method": "opaque"
+										}
+									},
+									"minecraft:geometry": "geometry.keroppi",
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"data": "2",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"data": "0.9",
+								"key": "minecraft:explosion_resistance"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:explosion_resistance": 0.9,
+									"minecraft:block_light_emission": 0.9,
+									"minecraft:map_color": "#28D217",
+									"minecraft:entity_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "keroppi",
+											"render_method": "opaque"
+										}
+									},
+									"minecraft:geometry": "geometry.keroppi",
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"data": "0.9",
+								"key": "minecraft:block_light_emission"
+							},
+							{
+								"data": "#28D217",
+								"key": "minecraft:map_color"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:explosion_resistance": 0.9,
+									"minecraft:block_light_emission": 0.9,
+									"minecraft:map_color": "#28D217",
+									"minecraft:entity_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "keroppi",
+											"render_method": "opaque"
+										}
+									},
+									"minecraft:geometry": "geometry.keroppi",
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"key": "minecraft:entity_collision",
+								"children": [
+									{
+										"open": {
+											"origin": [
+												-8,
+												0,
+												-8
+											],
+											"size": [
+												16,
+												16,
+												16
+											]
+										},
+										"key": "origin",
+										"is_minified": true,
+										"children": [
+											-8,
+											0,
+											-8
+										]
+									},
+									{
+										"open": {
+											"origin": [
+												-8,
+												0,
+												-8
+											],
+											"size": [
+												16,
+												16,
+												16
+											]
+										},
+										"key": "size",
+										"is_minified": true,
+										"children": [
+											16,
+											16,
+											16
+										]
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:explosion_resistance": 0.9,
+									"minecraft:block_light_emission": 0.9,
+									"minecraft:map_color": "#28D217",
+									"minecraft:entity_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "keroppi",
+											"render_method": "opaque"
+										}
+									},
+									"minecraft:geometry": "geometry.keroppi",
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"key": "minecraft:pick_collision",
+								"children": [
+									{
+										"open": {
+											"origin": [
+												-8,
+												0,
+												-8
+											],
+											"size": [
+												16,
+												16,
+												16
+											]
+										},
+										"key": "origin",
+										"is_minified": true,
+										"children": [
+											-8,
+											0,
+											-8
+										]
+									},
+									{
+										"open": {
+											"origin": [
+												-8,
+												0,
+												-8
+											],
+											"size": [
+												16,
+												16,
+												16
+											]
+										},
+										"key": "size",
+										"is_minified": true,
+										"children": [
+											16,
+											16,
+											16
+										]
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:explosion_resistance": 0.9,
+									"minecraft:block_light_emission": 0.9,
+									"minecraft:map_color": "#28D217",
+									"minecraft:entity_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "keroppi",
+											"render_method": "opaque"
+										}
+									},
+									"minecraft:geometry": "geometry.keroppi",
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "keroppi",
+												"render_method": "opaque"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "keroppi",
+											"render_method": "opaque"
+										}
+									}
+								]
+							},
+							{
+								"data": "geometry.keroppi",
+								"key": "minecraft:geometry"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:explosion_resistance": 0.9,
+									"minecraft:block_light_emission": 0.9,
+									"minecraft:map_color": "#28D217",
+									"minecraft:entity_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "keroppi",
+											"render_method": "opaque"
+										}
+									},
+									"minecraft:geometry": "geometry.keroppi",
+									"bridge:rotate_y_on_place": {
+										"flip": true
+									}
+								},
+								"key": "bridge:rotate_y_on_place",
+								"is_minified": true,
+								"children": {
+									"flip": true
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"file_path": "C:\\Users\\rjayt\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\spaceshiptrip.keroppi.block.rp\\texts\\en_US.lang",
+	"file_type": "client_lang",
+	"format_version": 0,
+	"file_uuid": "d6986933_8cf5_419c_b424_f2c7fc126b9b",
+	"file_version": 0,
+	"cache_content": "pack.name=spaceshiptrip.keroppi.block.rp\r\npack.description=Keroppi Block RP by SpaceshipTrip\r\ntile.spa:keroppi_block.name=Keroppi Block"
+}
