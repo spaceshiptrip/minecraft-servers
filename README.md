@@ -12,15 +12,27 @@
 1. Add Date of Contest in sign on plaque at Town Square
 1. Copy rules of contest to a plaque in the town square
 1. Lock up the enchanted room outside Sophia's house
+1. Set time to 1000
+   ```
+   time set 1000
+   ```
 
    
 #### 2021 April 24
 * 10AM Pacific
 * Lock Server at 9AM Pacific
+* For first contest, set to always daytime
+   ```
+   /gamerule doDaylightCycle false
+   ```
 * Find spot within 1000 block radius from Llama House
 * No digging -- Possibly under water?
 * Should we turn off coordinates?
 * Upon completion of the contest, open enchanted room again
+* Set day cycle to continue
+   ```
+   /gamerule doDayLightCycle true
+   ```
 
 ##### Announced Rules:
 * This will be simple, straight up scavenger hunt
@@ -38,4 +50,6 @@
 * Create super sword
 * Create throwable ninja stars
 * Create pickaxe that can break anything and everything try to break `barrier` blocks
-* 
+* Make floating sign for Town Square
+  - Add a Google Pin from the top
+  - Make it very large so it can be seen from everywhere 
