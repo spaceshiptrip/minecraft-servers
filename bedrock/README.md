@@ -119,8 +119,31 @@ Try copying the .json file that was edited and paste it into a .json parser like
    * https://youtu.be/MTkULBJJVwQ
 
 
+### Blockbench
+1. Download for your platform
+2. Create a new project and call it whatever you want, but note that the name will be used in multiple place, so if you call it `test` make sure to use that same name in all the other inputs.
+3. For simplicity sake the filename and the model identifier should be the same
+4. For making a block, just keep the default texture size of 16 and 16
+5. You can click on Layered Textures if you want to do make fancy colors or fancy texture maps.
+
+
+
 ---
 
 # Builds
 1. Wizard Tower: https://www.grabcraft.com/minecraft/unique-wizard-tower/other-193
 
+---
+
+# Resources
+* Use existing models: https://www.youtube.com/watch?v=t6ciyxrU5Sk
+* Create custom entities: https://www.youtube.com/watch?v=xoybMf05Jl8
+* Companion Cube: https://youtu.be/z4-jTBo_n4o
+* Custom food and weapons: https://www.youtube.com/watch?v=MTkULBJJVwQ
+* Custom block: https://www.youtube.com/watch?v=494U6pSvbOg
+* Making a sword from blockbench: https://www.youtube.com/watch?v=PTItYqKSBwo
+* Arts By Kev:
+    * https://www.youtube.com/watch?v=K0O3H0q0S74
+    * https://www.youtube.com/watch?v=GQtXlmy2xTE
+    * https://www.youtube.com/watch?v=N3CGOGYJ0e0
+    * 
