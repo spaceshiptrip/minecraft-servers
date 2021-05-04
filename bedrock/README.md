@@ -1,3 +1,15 @@
+## Advnaded: Installing custom settings on existing active server
+
+1. Create a new world with the proper settings
+2. When you create the world, you have to make sure the name of the world is the same.  By default it is `Bedrock level`
+3. Search for the `level.dat` file on your new world with the new settings
+4. Copy the new `level.dat` file into the the same level in your existing server
+5. To double check, cat the `levelname.txt` file in both your systems and make sure they match
+
+
+
+
+
 ## Advanced: Installing addons onto an already existing world:
 NOTE: We highly recommend giving the above sections a try first. The two methods above will work regardless of what format your addons are in, as long as you're able to import them into your Minecraft client.
 
