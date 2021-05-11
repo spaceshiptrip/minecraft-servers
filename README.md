@@ -1,3 +1,15 @@
+# tmux quick hits
+If you lose console on a tmux app, use `send-keys` option:
+   - Example:
+       - I started a bedrock server on tmux, but lost console output.  I need to send the shutdown command but have it gracefully save and close ports.  
+       - Solution:  
+         ```
+         tmux send-keys -t bedrock:0.0 stop Enter
+         ```
+         - This sends the `stop <Enter>` command to the console in tmux
+       
+----
+
 # Cousin's Server Contests
 ## Super Happy Fun Time Jolly Bee Family Server
 
